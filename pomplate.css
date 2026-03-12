@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+    padding: 10%;
+}
+
+.header{
+    display: flex;
+}
+
+.logoo{
+    width: 200px;
+    height: 200px;
+}
+
+.mainhero{
+    display: flex;
+}
+
+.h-right img{
+    width: 200px;
+    height: 200px;
+    margin-left: 600px;
+}
+
+.h-left{
+    font-size: 30px;
+}
+
+.data{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    padding: 1%;
+    font-size: 20px;
+}
+
+.heading{
+    margin-left: -40px;
+    font-size: 10px;
+}
